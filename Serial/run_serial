@@ -1,0 +1,2 @@
+sudo screen /dev/ttyACM0 115200
+#ls /dev/tty*

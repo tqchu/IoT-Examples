@@ -1,0 +1,11 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+arg1 = $(1)
+export PATH=/home/truongchu/renesas/ra/e2studio_v2024-04_fsp_v5.4.0/toolchains/gcc_arm/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/bin/:/home/truongchu/renesas/ra/e2studio_v2024-04_fsp_v5.4.0/eclipse/plugins/com.renesas.ide.exttools.gnumake.linux.x86_64_1.0.0.v20220121-1024/mk/:/home/truongchu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/truongchu/.local/share/JetBrains/Toolbox/scripts
+export TCINSTALL=/home/truongchu/renesas/ra/e2studio_v2024-04_fsp_v5.4.0/toolchains/gcc_arm/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi/
+export CWD=$(CURDIR)
+export TC_VERSION=13.2.1.arm-13-7
+export PWD=$(CURDIR)
+export GCC_VERSION=13.2.1
